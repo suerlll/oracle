@@ -6,7 +6,7 @@ where d.department_id = e.department_id
 and d.department_name in ('IT'，'Sales')
 GROUP BY department_name;
 查询结果
-
+！[IMAGE]（https://github.com/suerlll/oracle/blob/master/tup/cx1.png）
 优化建议
 
 查询代码
