@@ -19,5 +19,5 @@ GROUP BY department_name
 查询结果
 ![image](https://github.com/suerlll/oracle/blob/master/tup/cx2.png)
 优化建议
-
+1
 
