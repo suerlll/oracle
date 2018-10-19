@@ -22,7 +22,8 @@ GROUP BY department_name
 在（'IT'，'销售'）中使用d.department_name;
 ```
 查询结果：
-！[]（https://github.com/suerlll/oracle/blob/master/tup/cx2.png)
+![](https://github.com/suerlll/oracle/blob/master/tup/cx2.png)
+
 分析：
 代码通过查询部门人员来得到数据。准确的定位与输出。较查询一更加优秀。
 查询一与查询二相较而言，查询二更加的好。
